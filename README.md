@@ -2,6 +2,12 @@
 
 Hackathon-ready enterprise goal setting and quarterly performance tracking portal.
 
+## 🏗️ Architecture Diagram
+
+<p align="center">
+  <img src="docs/architecture.jpeg" alt="ATOMQUEST Architecture" width="1100"/>
+</p>
+
 ## Architecture
 
 - `frontend/`: React + Vite + TypeScript + Tailwind CSS + shadcn-style components + Zustand + React Hook Form + Zod + Recharts.
